@@ -1,0 +1,22 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    color: #3ded03;
+    background-color: black;
+}
+
+h1{
+    font-size: 0.85rem;
+}
+
+.container-fluid{
+    background-image: url(../img/computer.png);
+    background-size: cover;
+    height: 100vh;
+}
+.password-box{
+    width: 300px;
+    height: 300px;
+    padding-top: 3rem;
+    margin-right: 12rem;
+    text-align: left;
+}
