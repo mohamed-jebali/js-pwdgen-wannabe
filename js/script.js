@@ -1,10 +1,11 @@
 
 // SCRIPT JS
 
-let studente = prompt("Inserisci il tuo Nome");
-let cognome = prompt("Inserisci il tuo Cognome");
-let colorePreferito = prompt("Qual'è il tuo colore preferito?");
-let numero = parseInt(prompt("Inserisci il tuo numero preferito"));
+let studente = prompt("Inserisci il tuo Nome"),
+ cognome = prompt("Inserisci il tuo cognome"),
+ colorePreferito = prompt("Qual'è il tuo colore preferito?"),
+ numero = prompt("Inserisci il tuo numero preferito");
+
 
 `
 
