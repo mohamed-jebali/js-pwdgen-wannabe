@@ -6,7 +6,14 @@ let cognome = prompt("Inserisci il tuo Cognome");
 let colorePreferito = prompt("Qual'è il tuo colore preferito?");
 let numero = parseInt(prompt("Inserisci il tuo numero preferito"));
 
+`
+
+${studente} ${cognome} ${colorePreferito} ${numero}
+
+`
+
 document.getElementById("titolo").innerHTML = studente + cognome + colorePreferito + numero;
+
 
 console.log(studente);
 console.log(cognome);
